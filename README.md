@@ -1,1 +1,1 @@
-     * Le script Python est détaillé dans le rapport .pdf
+     Le script Python est détaillé dans le rapport .pdf
